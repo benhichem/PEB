@@ -3,8 +3,8 @@ const axios = require("axios");
 const apiURL = "https://solve.shimul.me/api/solve";
 
 let info = {
-  API_KEY: "9420f369-57cb-9509-4745-1f4b6792cf11",
-  UID: "62ddc598717f7ddce933",
+  API_KEY: "",
+  UID: "",
 };
 
 function z(e) {
